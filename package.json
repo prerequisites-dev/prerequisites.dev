@@ -1,0 +1,11 @@
+{
+  "name": "prerequisites.dev",
+  "version": "1.0.0",
+  "description": "A site that you can link to from guides, tutorials, and other learning materials to share prerequisites for those learning materials.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "MIT"
+}
