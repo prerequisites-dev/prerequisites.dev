@@ -9,7 +9,7 @@
   "keywords": [],
   "license": "MIT",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy": "^1.0.2",
     "standard": "^14.3.4"
   }
 }
